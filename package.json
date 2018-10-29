@@ -1,0 +1,10 @@
+{
+  "name": "@perform/breaking-module-swapping",
+  "version": "1.0.1",
+  "main": "./src/index.js",
+  "description": "An example chapter",
+  "license": "UNLICENSED",
+  "engines": {
+    "node": "8.10.0"
+  }
+}
